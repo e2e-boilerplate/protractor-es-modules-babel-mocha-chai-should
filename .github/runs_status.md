@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                        |
+| :-- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 158 | 29/03/20 15:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65992313) |
+| 160 | 29/03/20 16:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66020245) |
+| 157 | 29/03/20 07:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65786180) |
+| 161 | 29/03/20 18:59 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66069328) |
+| 168 | 02/04/20 06:52 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/68976406)         |
+| 148 | 28/03/20 15:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65439858) |
+| 166 | 31/03/20 21:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/67860768) |
+| 149 | 28/03/20 18:41 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65506634)         |
+| 153 | 29/03/20 00:28 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65637176)         |
+| 150 | 28/03/20 19:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65521183) |
+| 151 | 28/03/20 20:04 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65533113)         |
+| 154 | 29/03/20 01:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65663287) |
+| 152 | 28/03/20 20:12 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65544975)         |
+| 162 | 29/03/20 19:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66081779) |
+| 156 | 29/03/20 07:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65783381) |
+| 163 | 29/03/20 21:45 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66143495)         |
+| 159 | 29/03/20 16:18 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66007941) |
+| 155 | 29/03/20 07:04 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65777971) |
+| 172 | 02/04/20 23:28 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/69556636)         |
+| 170 | 02/04/20 21:34 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/69506448)         |
+| 176 | 03/04/20 21:55 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/70310360) |
+| 147 | 28/03/20 13:04 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/65373575) |
+| 171 | 02/04/20 23:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/69551261) |
+| 174 | 03/04/20 00:08 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/69575003) |
+| 167 | 01/04/20 23:23 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/68743158)         |
+| 164 | 29/03/20 22:43 | [![Conclusion](https://img.shields.io/badge/build-fail-red)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66166723)         |
+| 173 | 02/04/20 23:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/69563341) |
+| 175 | 03/04/20 21:23 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/70302310) |
+| 169 | 02/04/20 19:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/69444209) |
+| 165 | 30/03/20 21:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/66995834) |
