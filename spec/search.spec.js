@@ -1,4 +1,6 @@
-import { expect } from "chai";
+import { should } from "chai";
+
+should();
 
 describe("Sandbox", () => {
   before(() => {
@@ -6,12 +8,12 @@ describe("Sandbox", () => {
   });
 
   it("should be on Sandbox", async () => {
-    const title = await browser.getTitle();
+    const pageTitle = await browser.getTitle();
     const header = element(by.css("h1"));
 
-    expect(title).to.equal("Sandbox");
-    header.getText().then((h) => {
-      expect(h).to.equal("Sandbox");
-    });
+    pageTitle.should.eql("Sandbox");
+
+    const title = await header.getText();
+    title.should.eql("Sandbox");
   });
 }).timeout(20000);
